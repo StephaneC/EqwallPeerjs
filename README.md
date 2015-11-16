@@ -1,4 +1,4 @@
-#WIP
+#Objective
 
 PeerJS using certificate
 
